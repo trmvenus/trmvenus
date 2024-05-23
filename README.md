@@ -15,13 +15,13 @@ I'm constantly posting repositories on GitHub for everybody to use which you can
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trmvenus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=trmvenus&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
