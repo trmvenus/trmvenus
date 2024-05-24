@@ -28,8 +28,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=trmvenus&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width='30%'></a> <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=trmvenus&theme=tokyonight&hide_border=false" width='40%'></a> <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width='25%'></a>
 
 ## ✍️ Dev Quote
 
