@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-<a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right" style="margin-left: 10px;"></a>
+<a href="https://twitter.com/trmvenus" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right" style="margin-left: 10px;"></a>
 <b>Multi-Language Programmer</b>, I'm constantly posting repositories and free open source on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
