@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=trmvenus&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trmvenus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
